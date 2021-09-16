@@ -1,4 +1,11 @@
-﻿using NUnit.Framework;
+﻿/*
+ * project = PageFactoryUsingFacebook
+ * Author = Lavanya Gollapudi
+ * Created Date = 14/09/2021
+ */
+
+
+using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using Selenium_Sample.page;
@@ -28,8 +35,6 @@ namespace Selenium_Sample.Actions
 
             login.loginButton.Click();
             System.Threading.Thread.Sleep(8000);
-
-            
 
         }
 
