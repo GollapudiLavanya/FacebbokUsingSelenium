@@ -24,7 +24,6 @@ namespace Selenium_Sample.Driver
             chromeOptions.AddArgument("start-maximized");
             chromeOptions.AddArgument("--disable-notifications");
             driver = new ChromeDriver(chromeOptions);
-            //driver.Manage().Window.Maximize();
             driver.Url = "https://www.facebook.com/";
 
             //Implicit wait

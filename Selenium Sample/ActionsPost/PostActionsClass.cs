@@ -17,7 +17,6 @@ namespace Selenium_Sample.ActionsPost
 {
     public class PostActionsClass
     {
-        //public static Actions notify;
        
         public static void PostaPhoto(IWebDriver driver)
         {
@@ -31,9 +30,6 @@ namespace Selenium_Sample.ActionsPost
 
             post.loginButton.Click();
             System.Threading.Thread.Sleep(5000);
-
-            //notify = new Actions(driver);
-            //notify.SendKeys(Keys.Escape).Build().Perform();
 
             post.homeIcon.Click();
             System.Threading.Thread.Sleep(4000);
