@@ -42,7 +42,7 @@ namespace Selenium_Sample.Registration
             ReEnterEmail.SendKeys("ucs17139@rmd.ac.in");
             System.Threading.Thread.Sleep(1000);
 
-            driver.FindElement(By.Name("reg_passwd__")).SendKeys("test@2000");
+            driver.FindElement(By.Name("reg_passwd__")).SendKeys("hello@2000");
             System.Threading.Thread.Sleep(1000);
 
             SelectElement element = new SelectElement(driver.FindElement(By.Name("birthday_day")));
@@ -61,7 +61,7 @@ namespace Selenium_Sample.Registration
             System.Threading.Thread.Sleep(1000);
 
             driver.FindElement(By.Name("websubmit")).Click();
-            System.Threading.Thread.Sleep(10000);
+            System.Threading.Thread.Sleep(2000);
 
         }
     }

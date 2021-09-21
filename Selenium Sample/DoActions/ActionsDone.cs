@@ -4,14 +4,14 @@
  * Created Date = 14/09/2021
  */
 
-
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using Selenium_Sample.page;
+using Selenium_Sample.Post;
 using SeleniumExtras.PageObjects;
 
-namespace Selenium_Sample.Actions
+namespace Selenium_Sample.DoActions
 {
     public class ActionsDone
     {
@@ -28,16 +28,14 @@ namespace Selenium_Sample.Actions
             login = new Login_page(driver);
             
             login.email.SendKeys("ucs17139@rmd.ac.in");
-            System.Threading.Thread.Sleep(8000);
+            System.Threading.Thread.Sleep(2000);
 
             login.password.SendKeys("123456789ABCD");
-            System.Threading.Thread.Sleep(8000);
+            System.Threading.Thread.Sleep(2000);
 
             login.loginButton.Click();
-            System.Threading.Thread.Sleep(8000);
+            System.Threading.Thread.Sleep(2000);
 
         }
-
-
     }
 }
