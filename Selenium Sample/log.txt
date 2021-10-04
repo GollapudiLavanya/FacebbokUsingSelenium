@@ -1,0 +1,235 @@
+2021-10-01 12:17:05,863 INFO Entering Setup
+2021-10-01 12:17:09,864 INFO navigating to url
+2021-10-01 12:17:09,864 INFO Exiting setup
+2021-10-01 12:35:55,314 INFO Entering Setup
+2021-10-01 12:35:59,486 INFO navigating to url
+2021-10-01 12:35:59,487 INFO Exiting setup
+2021-10-01 12:40:34,022 INFO Entering Setup
+2021-10-01 12:40:38,055 INFO navigating to url
+2021-10-01 12:40:38,056 INFO Exiting setup
+2021-10-01 12:41:01,315 INFO Entering Setup
+2021-10-01 12:41:04,811 INFO navigating to url
+2021-10-01 12:41:04,812 INFO Exiting setup
+2021-10-01 13:14:51,325 INFO Entering Setup
+2021-10-01 13:14:56,747 INFO navigating to url
+2021-10-01 13:14:56,748 INFO Exiting setup
+2021-10-01 16:00:47,745 INFO Entering Setup
+2021-10-01 16:00:52,803 INFO navigating to url
+2021-10-01 16:00:52,804 INFO Exiting setup
+2021-10-01 16:00:58,084 INFO Logging in Succesfull
+2021-10-01 16:01:26,325 INFO Mail Sent Succesfully
+2021-10-01 16:02:10,613 INFO Entering Setup
+2021-10-01 16:02:15,597 INFO navigating to url
+2021-10-01 16:02:15,597 INFO Exiting setup
+2021-10-01 16:02:20,908 INFO Logging in Succesfull
+2021-10-01 16:02:48,080 INFO Mail Sent Succesfully
+2021-10-01 16:03:13,144 INFO Entering Setup
+2021-10-01 16:03:17,952 INFO navigating to url
+2021-10-01 16:03:17,953 INFO Exiting setup
+2021-10-01 16:03:23,250 INFO Logging in Succesfull
+2021-10-01 16:03:50,327 INFO Mail Sent Succesfully
+2021-10-01 16:04:49,981 INFO Entering Setup
+2021-10-01 16:04:54,585 INFO navigating to url
+2021-10-01 16:04:54,585 INFO Exiting setup
+2021-10-01 16:04:59,990 INFO Logging in Succesfull
+2021-10-01 16:05:27,153 INFO Mail Sent Succesfully
+2021-10-01 16:25:51,675 INFO Entering Setup
+2021-10-01 16:25:55,946 INFO navigating to url
+2021-10-01 16:25:55,947 INFO Exiting setup
+2021-10-01 16:33:53,683 INFO Entering Setup
+2021-10-01 16:33:57,869 INFO navigating to url
+2021-10-01 16:33:57,869 INFO Exiting setup
+2021-10-03 17:44:19,958 INFO Entering Setup
+2021-10-03 17:44:25,134 INFO navigating to url
+2021-10-03 17:44:25,135 INFO Exiting setup
+2021-10-03 17:48:16,517 INFO Entering Setup
+2021-10-03 17:48:20,371 INFO navigating to url
+2021-10-03 17:48:20,372 INFO Exiting setup
+2021-10-03 17:48:38,732 INFO Entering Setup
+2021-10-03 17:48:42,511 INFO navigating to url
+2021-10-03 17:48:42,512 INFO Exiting setup
+2021-10-03 17:49:32,244 INFO Entering Setup
+2021-10-03 17:49:35,664 INFO navigating to url
+2021-10-03 17:49:35,664 INFO Exiting setup
+2021-10-03 17:59:32,291 INFO Entering Setup
+2021-10-03 17:59:36,254 INFO navigating to url
+2021-10-03 17:59:36,254 INFO Exiting setup
+2021-10-03 17:59:54,657 INFO Entering Setup
+2021-10-03 17:59:58,247 INFO navigating to url
+2021-10-03 17:59:58,247 INFO Exiting setup
+2021-10-03 18:00:47,463 INFO Entering Setup
+2021-10-03 18:00:50,793 INFO navigating to url
+2021-10-03 18:00:50,793 INFO Exiting setup
+2021-10-03 18:10:43,110 INFO Entering Setup
+2021-10-03 18:10:48,296 INFO navigating to url
+2021-10-03 18:10:48,297 INFO Exiting setup
+2021-10-03 18:19:33,466 INFO Entering Setup
+2021-10-03 18:19:38,032 INFO navigating to url
+2021-10-03 18:19:38,033 INFO Exiting setup
+2021-10-03 18:24:55,678 INFO Entering Setup
+2021-10-03 18:24:59,776 INFO navigating to url
+2021-10-03 18:24:59,777 INFO Exiting setup
+2021-10-03 18:25:23,722 INFO Entering Setup
+2021-10-03 18:25:27,257 INFO navigating to url
+2021-10-03 18:25:27,258 INFO Exiting setup
+2021-10-03 18:25:36,692 INFO Entering Setup
+2021-10-03 18:25:40,903 INFO navigating to url
+2021-10-03 18:25:40,903 INFO Exiting setup
+2021-10-03 18:26:30,526 INFO Entering Setup
+2021-10-03 18:26:33,926 INFO navigating to url
+2021-10-03 18:26:33,926 INFO Exiting setup
+2021-10-03 18:26:50,777 INFO Entering Setup
+2021-10-03 18:26:54,465 INFO navigating to url
+2021-10-03 18:26:54,467 INFO Exiting setup
+2021-10-03 18:33:49,243 INFO Entering Setup
+2021-10-03 18:33:52,861 INFO navigating to url
+2021-10-03 18:33:52,862 INFO Exiting setup
+2021-10-03 18:34:53,899 INFO Entering Setup
+2021-10-03 18:34:57,940 INFO navigating to url
+2021-10-03 18:34:57,941 INFO Exiting setup
+2021-10-03 18:35:53,388 INFO Entering Setup
+2021-10-03 18:35:57,514 INFO navigating to url
+2021-10-03 18:35:57,515 INFO Exiting setup
+2021-10-03 18:37:09,488 INFO Entering Setup
+2021-10-03 18:37:13,120 INFO navigating to url
+2021-10-03 18:37:13,121 INFO Exiting setup
+2021-10-03 18:43:06,405 INFO Entering Setup
+2021-10-03 18:43:10,210 INFO navigating to url
+2021-10-03 18:43:10,211 INFO Exiting setup
+2021-10-03 18:44:26,471 INFO Entering Setup
+2021-10-03 18:44:30,807 INFO navigating to url
+2021-10-03 18:44:30,807 INFO Exiting setup
+2021-10-03 18:45:27,836 INFO Entering Setup
+2021-10-03 18:45:31,825 INFO navigating to url
+2021-10-03 18:45:31,825 INFO Exiting setup
+2021-10-03 18:47:15,834 INFO Entering Setup
+2021-10-03 18:47:19,587 INFO navigating to url
+2021-10-03 18:47:19,587 INFO Exiting setup
+2021-10-03 18:50:05,117 INFO Entering Setup
+2021-10-03 18:50:09,337 INFO navigating to url
+2021-10-03 18:50:09,337 INFO Exiting setup
+2021-10-03 19:04:41,682 INFO Entering Setup
+2021-10-03 19:04:46,523 INFO navigating to url
+2021-10-03 19:04:46,523 INFO Exiting setup
+2021-10-03 19:04:59,880 INFO Entering Setup
+2021-10-03 19:05:03,898 INFO navigating to url
+2021-10-03 19:05:03,898 INFO Exiting setup
+2021-10-03 19:08:08,727 INFO Entering Setup
+2021-10-03 19:08:08,835 INFO Entering Setup
+2021-10-03 19:12:30,592 INFO Entering Setup
+2021-10-03 19:12:34,946 INFO navigating to url
+2021-10-03 19:12:34,947 INFO Exiting setup
+2021-10-03 19:15:30,979 INFO Entering Setup
+2021-10-03 19:15:34,770 INFO navigating to url
+2021-10-03 19:15:34,771 INFO Exiting setup
+2021-10-03 19:15:56,250 INFO Entering Setup
+2021-10-03 19:15:59,778 INFO navigating to url
+2021-10-03 19:15:59,778 INFO Exiting setup
+2021-10-03 19:16:28,842 INFO Entering Setup
+2021-10-03 19:16:32,580 INFO navigating to url
+2021-10-03 19:16:32,580 INFO Exiting setup
+2021-10-03 19:16:50,588 INFO Entering Setup
+2021-10-03 19:16:54,074 INFO navigating to url
+2021-10-03 19:16:54,075 INFO Exiting setup
+2021-10-03 22:18:27,892 INFO Entering Setup
+2021-10-03 22:18:32,214 INFO navigating to url
+2021-10-03 22:18:32,215 INFO Exiting setup
+2021-10-03 22:18:57,422 INFO Entering Setup
+2021-10-03 22:19:00,754 INFO navigating to url
+2021-10-03 22:19:00,754 INFO Exiting setup
+2021-10-03 22:19:10,295 INFO Entering Setup
+2021-10-03 22:19:13,620 INFO navigating to url
+2021-10-03 22:19:13,621 INFO Exiting setup
+2021-10-03 22:19:43,091 INFO Entering Setup
+2021-10-03 22:19:46,353 INFO navigating to url
+2021-10-03 22:19:46,353 INFO Exiting setup
+2021-10-03 22:20:03,348 INFO Entering Setup
+2021-10-03 22:20:06,767 INFO navigating to url
+2021-10-03 22:20:06,767 INFO Exiting setup
+2021-10-04 10:55:07,573 INFO Entering Setup
+2021-10-04 10:55:11,571 INFO navigating to url
+2021-10-04 10:55:11,572 INFO Exiting setup
+2021-10-04 10:55:56,873 INFO Entering Setup
+2021-10-04 10:56:00,980 INFO navigating to url
+2021-10-04 10:56:00,981 INFO Exiting setup
+2021-10-04 10:58:55,052 INFO Entering Setup
+2021-10-04 10:58:59,382 INFO navigating to url
+2021-10-04 10:58:59,382 INFO Exiting setup
+2021-10-04 11:00:27,254 INFO Entering Setup
+2021-10-04 11:00:31,721 INFO navigating to url
+2021-10-04 11:00:31,722 INFO Exiting setup
+2021-10-04 11:02:17,809 INFO Entering Setup
+2021-10-04 11:02:23,171 INFO navigating to url
+2021-10-04 11:02:23,172 INFO Exiting setup
+2021-10-04 11:06:18,302 INFO Entering Setup
+2021-10-04 11:06:22,834 INFO navigating to url
+2021-10-04 11:06:22,835 INFO Exiting setup
+2021-10-04 11:08:16,538 INFO Entering Setup
+2021-10-04 11:08:20,794 INFO navigating to url
+2021-10-04 11:08:20,795 INFO Exiting setup
+2021-10-04 11:09:42,682 INFO Entering Setup
+2021-10-04 11:09:47,439 INFO navigating to url
+2021-10-04 11:09:47,439 INFO Exiting setup
+2021-10-04 11:10:43,339 INFO Entering Setup
+2021-10-04 11:10:47,608 INFO navigating to url
+2021-10-04 11:10:47,608 INFO Exiting setup
+2021-10-04 11:11:44,339 INFO Entering Setup
+2021-10-04 11:11:49,177 INFO navigating to url
+2021-10-04 11:11:49,178 INFO Exiting setup
+2021-10-04 11:47:18,654 INFO Entering Setup
+2021-10-04 11:47:23,658 INFO navigating to url
+2021-10-04 11:47:23,659 INFO Exiting setup
+2021-10-04 12:35:40,843 INFO Entering Setup
+2021-10-04 12:35:45,393 INFO navigating to url
+2021-10-04 12:35:45,394 INFO Exiting setup
+2021-10-04 12:36:48,330 INFO Entering Setup
+2021-10-04 12:36:52,503 INFO navigating to url
+2021-10-04 12:36:52,504 INFO Exiting setup
+2021-10-04 12:38:29,483 INFO Entering Setup
+2021-10-04 12:38:33,163 INFO navigating to url
+2021-10-04 12:38:33,163 INFO Exiting setup
+2021-10-04 12:39:27,425 INFO Entering Setup
+2021-10-04 12:39:31,178 INFO navigating to url
+2021-10-04 12:39:31,178 INFO Exiting setup
+2021-10-04 12:43:41,301 INFO Entering Setup
+2021-10-04 12:43:45,203 INFO navigating to url
+2021-10-04 12:43:45,203 INFO Exiting setup
+2021-10-04 12:44:32,759 INFO Entering Setup
+2021-10-04 12:44:36,385 INFO navigating to url
+2021-10-04 12:44:36,385 INFO Exiting setup
+2021-10-04 12:47:51,830 INFO Entering Setup
+2021-10-04 12:47:54,983 INFO navigating to url
+2021-10-04 12:47:54,984 INFO Exiting setup
+2021-10-04 12:48:02,658 INFO Entering Setup
+2021-10-04 12:48:06,901 INFO navigating to url
+2021-10-04 12:48:06,902 INFO Exiting setup
+2021-10-04 12:50:58,214 INFO Entering Setup
+2021-10-04 12:51:02,164 INFO navigating to url
+2021-10-04 12:51:02,165 INFO Exiting setup
+2021-10-04 12:55:10,477 INFO Entering Setup
+2021-10-04 12:55:14,136 INFO navigating to url
+2021-10-04 12:55:14,139 INFO Exiting setup
+2021-10-04 13:15:02,771 INFO Entering Setup
+2021-10-04 13:15:06,363 INFO navigating to url
+2021-10-04 13:15:06,363 INFO Exiting setup
+2021-10-04 13:15:28,568 INFO Entering Setup
+2021-10-04 13:15:32,451 INFO navigating to url
+2021-10-04 13:15:32,452 INFO Exiting setup
+2021-10-04 13:15:42,473 INFO Entering Setup
+2021-10-04 13:15:45,929 INFO navigating to url
+2021-10-04 13:15:45,930 INFO Exiting setup
+2021-10-04 13:16:16,789 INFO Entering Setup
+2021-10-04 13:16:20,390 INFO navigating to url
+2021-10-04 13:16:20,391 INFO Exiting setup
+2021-10-04 13:16:37,628 INFO Entering Setup
+2021-10-04 13:16:41,020 INFO navigating to url
+2021-10-04 13:16:41,020 INFO Exiting setup
+2021-10-04 13:17:15,780 INFO Entering Setup
+2021-10-04 13:17:19,089 INFO navigating to url
+2021-10-04 13:17:19,089 INFO Exiting setup
+2021-10-04 13:17:29,820 INFO Entering Setup
+2021-10-04 13:17:33,414 INFO navigating to url
+2021-10-04 13:17:33,415 INFO Exiting setup
+2021-10-04 13:27:25,566 INFO Entering Setup
+2021-10-04 13:27:30,051 INFO navigating to url
+2021-10-04 13:27:30,051 INFO Exiting setup

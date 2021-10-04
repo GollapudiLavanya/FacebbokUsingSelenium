@@ -1,5 +1,5 @@
 ﻿/*
- * project = PageFactoryUsingFacebook
+ * project = FacebookAutomation
  * Author = Lavanya Gollapudi
  * Created Date = 14/09/2021
  */
@@ -10,7 +10,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Selenium_Sample.Post
+namespace Selenium_Sample.page
 {
     public class PostClass
     {
@@ -35,9 +35,13 @@ namespace Selenium_Sample.Post
         [CacheLookup]
         public IWebElement homeIcon;
 
-        [FindsBy(How = How.XPath, Using = "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]")]
+        [FindsBy(How = How.XPath, Using = "//span[contains(text(),'Photo/Video')]")]
         [CacheLookup]
         public IWebElement createPost;
+
+        [FindsBy(How = How.XPath, Using = "/html/body/div[1]/div/div[1]/div/div[4]/div/div/div[1]/div/div[2]/div/div/div/form/div/div[1]/div/div/div/div[1]/div[1]/div/div[1]/h2/span/span")]
+        [CacheLookup]
+        public IWebElement postText;
 
         [FindsBy(How = How.XPath, Using = "//*[@class='_1mf _1mj']")]
         [CacheLookup]
@@ -51,7 +55,15 @@ namespace Selenium_Sample.Post
         [CacheLookup]
         public IWebElement addPhoto;
 
-        [FindsBy(How = How.XPath, Using = "//*[@class='rq0escxv l9j0dhe7 du4w35lb j83agx80 pfnyh3mw taijpn5t bp9cbjyn owycx6da btwxx1t3 kt9q3ron ak7q8e6j isp2s0ed ri5dt5u2 rt8b4zig n8ej3o3l agehan2d sk4xxmp2 d1544ag0 tw6a2znq s1i5eluu tv7at329']")]
+        [FindsBy(How = How.XPath, Using = "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[1]")]
         public IWebElement postButton;
+
+        [FindsBy(How = How.XPath, Using = "  //*[@class='kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q']")]
+        [CacheLookup]
+        public IWebElement aboutPost;
+
+        [FindsBy(How = How.XPath, Using = "  //*[@class='i09qtzwb n7fi1qx3 datstx6m pmk7jnqg j9ispegn kr520xx4 k4urcfbm bixrwtb6']")]
+        [CacheLookup]
+        public IWebElement img;
     }
 }

@@ -1,7 +1,7 @@
 ﻿/*
  * project = FacebookAutomation
  * Author = Lavanya Gollapudi
- * Created Date = 14/09/2021
+ * Created Date = 03/09/2021
  */
 
 using NUnit.Framework;
@@ -11,9 +11,9 @@ using System;
 
 namespace Selenium_Sample.page
 {
-    public class Login_page
+    public class InvalidData
     {
-        public Login_page(IWebDriver driver)
+        public InvalidData(IWebDriver driver)
         {
             PageFactory.InitElements(driver, this);
         }
@@ -29,6 +29,17 @@ namespace Selenium_Sample.page
         [FindsBy(How = How.Name, Using = "login")]
         [CacheLookup]
         public IWebElement loginButton;
+
+        [FindsBy(How = How.XPath, Using = "//input[@id='pass']")]
+        [CacheLookup]
+        public IWebElement PWD;
         
+        [FindsBy(How = How.Name, Using = "login")]
+        [CacheLookup]
+        public IWebElement loginBtn;
+
+        [FindsBy(How = How.XPath, Using = "//*[@class='_9ay7']")]
+        [CacheLookup]
+        public IWebElement Errormsg;
     }
 }
